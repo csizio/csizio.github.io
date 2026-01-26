@@ -32,7 +32,7 @@ keywords_hu:
 markdown: kramdown
 
 # Add or merge these settings
-default_lang: en
+default_lang: hu
 languages:
   - en
   - hu

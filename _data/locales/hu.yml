@@ -8,9 +8,9 @@ contact:
   paragraph: "Küldj nekünk emailt (nyomd meg a borítékot) vagy hívj minket ezen a számon: <a href='tel:+36703170825'>+36 70 317 0825</a>"
   email_label: "{{ site.email }}"
 home:
-  header_title: "LumenSquad"
-  header_sub: "Kreatív fejlesztés és design"
-  cta: "Tovább"
+  header_title: "Bogika Oldala"
+  header_sub: "Művészet terjápia"
+  cta: "No de mi ez az egész"
 call_to_action:
   heading: "Laterna Magica"
   text: "A vetítések évszázadok óta bűvölik a közönséget. Csapatunk épületeket és belső tereket varázsol át fényinstallációival."
