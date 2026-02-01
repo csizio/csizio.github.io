@@ -57,10 +57,11 @@
 
 @mixin sans-serif-font()
 {
-	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+	font-family: 'Nunito', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 @mixin serif-font()
 {
-	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	/* body previously used Merriweather; make serif mixin fall back to Nunito so body uses Nunito too */
+	font-family: 'Nunito', 'Helvetica Neue', Arial, sans-serif;
 }
