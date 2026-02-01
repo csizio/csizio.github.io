@@ -9,7 +9,7 @@ contact:
   email_label: "{{ site.email }}"
 home:
   header_title: "Bogika Oldala"
-  header_sub: "Művészet terjápia"
+  header_sub: "A művészetterápia egy olyan komplex önismereti és gyógyító eljárás, amely nem a művészi képzettségre vagy az esztétikai eredményre, hanem az alkotás felszabadító folyamatára helyezi a hangsúlyt. A színek, formák és különféle anyagok használata lehetővé teszi a belső megélések és mélyen lakozó érzelmek kifejezését, így hatékony segítséget nyújt a stresszkezelésben, a traumák feldolgozásában, valamint az önértékelés megerősítésében kortól és előképzettségtől függetlenül bárki számára. A módszer ereje abban rejlik, hogy képes kikerülni a verbális gátakat, hiszen gyakran sokkal könnyebb formába önteni egy érzést, mint szavakkal körülírni azt. Az alkotás közben létrejövő „flow” élmény bizonyítottan csökkenti a stresszt, miközben a biztonságos, ítélkezésmentes környezetben végzett munka segít felszínre hozni a tudatalatti konfliktusokat. Ez a folyamat nemcsak a lelki egyensúly helyreállítását támogatja, hanem a létrehozás örömén keresztül alapvető sikerélményt és kompetenciaérzést is ad a kliensnek."
   cta: "No de mi ez az egész"
 call_to_action:
   heading: "Mit is jelent az hogy művészetterápia"
