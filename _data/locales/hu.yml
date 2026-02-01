@@ -1,5 +1,5 @@
 nav:
-  about: "Rólunk"
+  about: "Bemutatkozás"
   services: "Mit nyújtunk"
   portfolio: "Munkáink"
   contact: "Kapcsolat"
@@ -12,9 +12,9 @@ home:
   header_sub: "Művészet terjápia"
   cta: "No de mi ez az egész"
 call_to_action:
-  heading: "Laterna Magica"
+  heading: "Mit is jelent az hogy művészetterápia"
   text: "A vetítések évszázadok óta bűvölik a közönséget. Csapatunk épületeket és belső tereket varázsol át fényinstallációival."
-  button: "Galéria"
+  button: "Kapcsolat"
 services:
   heading: "Amit nyújtani tudunk"
   item1_title: "Analóg vetítés"
